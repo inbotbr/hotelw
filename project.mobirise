@@ -48,7 +48,7 @@
       "enabled": true,
       "name": "",
       "icon": "@PROJECT_PATH@/assets/images/logowhotel-512x512.png",
-      "themeColor": "#000000"
+      "themeColor": "#ffffff"
     },
     "favicon": "",
     "noImageResize": "",
